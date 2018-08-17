@@ -25,11 +25,10 @@ Java
 
 Join the Android Lambda Challenge Classroom [here](https://repl.it/classroom/invite/XBPZGf9). If you have never used repl.it before, you will need to sign up for a free account.
 
-You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). Repl.it works like an online Swift Playground. You are able to write and run code there directly. It will also test your code to make sure it works. The tests can be somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly.
+You will then see a list of assignments. Please complete them in order (1.1, 1.2, 1.3, 2.1, etc.). You are able to write and run code in repl.it directly. It will also test your code to make sure it works. The tests can be somewhat finnicky, so the instructions may tell you to do something like print a variable or function in order for the tests to test your code correctly.
 
-**To allow testing to work, be sure to make all members public unless otherwise specified.**
-
-**Please be sure to read all of the instructions.**
+**To allow testing to work, be sure to make all members public unless otherwise specified.**  
+**Please be sure to read all of the instructions.**  
 
 ## Finishing Up
 
